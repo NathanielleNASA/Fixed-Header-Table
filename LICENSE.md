@@ -1,4 +1,4 @@
-The MIT License (MIT)
+The MIT License (MIT) Nathanielle lee Strain
 
 Copyright (c) 2013 Mark Malek
 
